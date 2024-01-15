@@ -67,7 +67,7 @@ aandnd(selselectect/**/1/**/from/**/infoorrmation_schema.tables/**/where/**/tabl
 
 > [!NOTE]
 > Поле `flag.flag` не имеет чувствительности к регистру. Флаг, надеюсь, тоже.
->
+
 > [!WARNING]
 > Перебор будет искать ключевые слова (например, `grodno{andandand...`), если делать замены до
 > подстановки текущего варианта. Причиной этого является замена сервером строки на `grodno{`,
@@ -194,7 +194,7 @@ you can see Rust code that uses `regex` and `reqwest` (under `tokio`).
 
 > [!NOTE]
 > Field `flag.flag` is case-insensitive. Flag, I hope, too.
->
+
 > [!WARNING]
 > Brute-force will look for keywords (e.g. `grodno{andandand...`), if you perform replacements
 > before substituting the current variant. This is because server will replace it by `grodno{`,
