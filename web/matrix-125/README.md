@@ -2,8 +2,8 @@
 
 > Нажимаем *(ссылка на страницу)*
 
-Представляет собой страничку из огромного количества нулей и единиц. Каждые несколько имеют цвет
-примененный непосредственно к элементам `<b>`.
+Представляет собой страничку из огромного количества нулей и единиц. Каждые несколько объединены в
+элементы `<b>`, которые имеют цвет примененный непосредственно к каждому элементу.
 
 ![Matrix before](matrix-before.png)
 
@@ -22,8 +22,8 @@ grodno{Matrix_Loves_Numbers}
 
 > Click *(links to the webpage)*
 
-Represents a page with a huge amount of zeros and ones. They come in chunks that have an inline
-styles for coloring `<b>` elements.
+Represents a page with a huge amount of zeros and ones. They come in `<b>` element chunks that have
+inline styles for coloring.
 
 ![Matrix before](matrix-before.png)
 
