@@ -31,3 +31,15 @@ flag.
 - [Code Analysis](/code-analysis) (aka. Reverse)
 - [Forensics](/forensics)
 - [PPC](/ppc)
+
+## Ваш вклад / Contributions
+
+Вы можете внести вклад в данный репозиторий. Например, исправление опечаток или добавление ссылок
+или источников, которые помогут в познании приведенных решений. Добавление задач, которые не были
+решены kirillsemyonkin не требуется, но перевод на другие языки программирования может быть полезно.
+
+---
+
+You can contribute to this repository. For example, fixing typos or adding links or sources that
+will help readers consume the solutions. Adding tasks that were not solved by kirillsemyonkin is not
+needed, but translating to other programming languages could be useful.
