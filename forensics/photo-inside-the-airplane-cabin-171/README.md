@@ -18,7 +18,7 @@
 
 ## [Исходное фото / Source photo](aeroplane-2.jpg)
 
-![Фото](aeroplane-2.jpg)
+![Фото / Photo](aeroplane-2.jpg)
 
 ## Решение / Solution
 
