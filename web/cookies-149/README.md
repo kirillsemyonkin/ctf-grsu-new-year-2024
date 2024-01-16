@@ -4,6 +4,14 @@
 >
 > Флаг ищем здесь *(ссылка на страницу)*
 
+---
+
+> Be patient. The site is very hungry)
+>
+> Flag search here *(links to the page)*
+
+## Решение / Solution
+
 Явно что требуется забить запрос большим количеством cookie.
 
 > [!WARNING]
@@ -45,10 +53,6 @@ grodno{e2d5a0oW0uJWX1ZYxG9caZFX1Dcff874}
 ```
 
 ---
-
-> Be patient. The site is very hungry)
->
-> Flag search here *(links to the page)*
 
 It is clear that you need to fill a request with a large amount of cookies.
 

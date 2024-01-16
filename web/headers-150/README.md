@@ -2,6 +2,12 @@
 
 > Вам сюда *(ссылка на страницу)*
 
+---
+
+> Come here *(links to the webpage)*
+
+## Решение / Solution
+
 Пустая страница. Подсказка в названии: нужно посмотреть заголовки HTTP ответа.
 
 ```http
@@ -41,8 +47,6 @@ grodno{1fQDQ5swahGcTcf2}
 ```
 
 ---
-
-> Come here *(links to the webpage)*
 
 Empty page. Hint is in the name: you need to check the HTTP response headers.
 

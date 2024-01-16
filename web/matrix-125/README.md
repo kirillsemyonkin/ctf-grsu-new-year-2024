@@ -2,6 +2,12 @@
 
 > Нажимаем *(ссылка на страницу)*
 
+---
+
+> Click *(links to the webpage)*
+
+## Решение / Solution
+
 Представляет собой страничку из огромного количества нулей и единиц. Каждые несколько объединены в
 элементы `<b>`, которые имеют цвет примененный непосредственно к каждому элементу.
 
@@ -19,8 +25,6 @@ grodno{Matrix_Loves_Numbers}
 ```
 
 ---
-
-> Click *(links to the webpage)*
 
 Represents a page with a huge amount of zeros and ones. They come in `<b>` element chunks that have
 inline styles for coloring.

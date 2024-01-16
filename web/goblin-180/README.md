@@ -2,6 +2,12 @@
 
 > Да кому нужны эти рекурсии, хах? *(Я так и не понял про что это)*
 
+---
+
+> Who needs these recursions, huh? *(I still don't get what this is about)* *(EN version uses "huh" as opposed to "haha")*
+
+## Решение / Solution
+
 Страница встречает нас следующим текстом *(текст воссоздан по памяти)*:
 
 ```html
@@ -124,9 +130,6 @@ grodno{3asy_sq1i_h3h3}
 ```
 
 ---
-
-> Who needs these recursions, huh? *(I still don't get what this is about)*
-*(EN version uses "huh" as opposed to "haha")*
 
 The page greets us with the following text *(text recreated by memory)*:
 

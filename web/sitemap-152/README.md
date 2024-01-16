@@ -2,6 +2,12 @@
 
 > Ищем здесь *(ссылка на страницу)*
 
+---
+
+> Search here *(links to the webpage)*
+
+## Решение / Solution
+
 Почти пустая страница с неинтересным содержанием. Подсказка в названии: нужно найти файл
 `sitemap.xml`, в котором хранится древо всех страниц сайта. Допишем в его в заданный URL.
 
@@ -21,8 +27,6 @@ grodno{kesZvFNxwP67ZyQtX0Pb}
 ```
 
 ---
-
-> Search here *(links to the webpage)*
 
 Almost empty page with uninteresting content. Hint is in the name: we need to find the file
 `sitemap.xml`, which contains the tree of all pages. Let's add it to the given URL.

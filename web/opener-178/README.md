@@ -2,6 +2,12 @@
 
 > Кажется, в этой функции передачи картинок что-то не так...
 
+---
+
+> There seems to be something wrong with this picture transfer function...
+
+## Решение / Solution
+
 Каждая загрузка страницы показывает новую картинку. Можно сразу приступить к рассматриванию
 исходного кода *(фрагмент воссоздан по памяти)*:
 
@@ -72,8 +78,6 @@ grodno{P47H_7RAV3r54L_NO_HOMo}
 ```
 
 ---
-
-> There seems to be something wrong with this picture transfer function...
 
 Every page load shows a new image. Let's instantly begin investigating the source code
 *(code fragment is recreated by memory)*:
