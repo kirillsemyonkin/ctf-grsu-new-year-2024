@@ -79,7 +79,10 @@ for (int i = 0; i <= 10; i++) {
 }
 ```
 
-Выполним данную операцию над значениями выше (внимание, они в LE!):
+Выполним данную операцию над значениями выше.
+
+> [!WARNING]
+> IDA / C++ / кто-там-еще-есть хранят числа в формате Little Endian.
 
 ```plain
   61333066657163623a78
@@ -163,7 +166,10 @@ for (int i = 0; i <= 10; i++) {
 }
 ```
 
-Let's perform this operation on the values above (warning, they are in LE!):
+Let's perform this operation on the values above.
+
+> [!WARNING]
+> IDA / C++ / who-else-there-is use Little Endian.
 
 ```plain
   61333066657163623a78
