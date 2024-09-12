@@ -117,7 +117,7 @@ OTP is a simple XOR between a message and a key. In each message here there is e
 which the task makes us find.
 
 OTP tasks [usually are solved](https://ctftime.org/writeup/8857) via Crib Dragging - when we take a
-known part of the flag and drag it along the message until something understandable can be found.
+known part of the flag and drag it along the message until something intelligible can be found.
 
 ```python
 strings = list(map(lambda x: bytes.fromhex(x).decode('utf-8'), open("otp_message.txt").read().split('\n')))
@@ -133,7 +133,7 @@ def xor_str(a, b):
 print('\n'.join([xor_str(strings[i], flag) for i in range(0, len(strings))]))
 ```
 
-As it turns out, when `flag = '  grodno{'` echoes of some English text appears (e.g. `England`):
+As it turns out, when `flag = '  grodno{'` echoes of some English text appear (e.g. `England`):
 
 ```plain
 ...

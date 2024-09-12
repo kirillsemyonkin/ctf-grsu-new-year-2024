@@ -35,13 +35,14 @@ JPG
 
 ## Решение / Solution
 
-Не все "магические числа" выводимые сервером легко найти. Проще отправить серверу неверный ответ
-(например, `UNKNOWN`), после чего можно сопоставить начальный байт с каждым таким ответом.
+Не все "магические числа" выводимые сервером легко найти в интернете. Проще отправить серверу
+неверный ответ (например, `UNKNOWN`), после чего можно сопоставить начальный байт с каждым таким
+ответом.
 
 ---
 
-Not all "magic numbers" sent by the server can be easily found. It is easier to send the server a
-wrong answer (e.g. `UNKNOWN`), and you can map the first byte to each such answer.
+Not all "magic numbers" sent by the server can be easily found on the internet. It is easier to send
+the server a wrong answer (e.g. `UNKNOWN`), and you can map the first byte to each such answer.
 
 ---
 

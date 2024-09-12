@@ -19,7 +19,7 @@
 1. Поиск позволяет выяснить, что это выставка от БелАЗа (а также МоАЗа) перед Площадью Ленина в
    Гродно на IX форуме регионов Беларуси и России.
 
-2. После [упорного поиска](https://news.drom.ru/68781.html) можно добиться, что это - МоАЗ-4055
+2. После [упорного поиска](https://news.drom.ru/68781.html) можно добиться, что это - МоАЗ-4035
    (жуткий подгон формы флага).
 
 Флаг:
@@ -34,7 +34,7 @@ grodno{MoAZ-4035;Mogilev}
    Lenin Square in Grodno on the IX forum of regions of Belarus and Russia.
 
 2. After [a stubborn search](https://news.drom.ru/68781.html) you can figure out that this is
-   MoAZ-4055 (requires nasty fitting to the form of the flag that they want).
+   MoAZ-4035 (requires nasty fitting to the form of the flag that they want).
 
 Flag:
 

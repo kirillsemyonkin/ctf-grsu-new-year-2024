@@ -69,7 +69,7 @@ grodno{Happy_N3w_Y3ar!}
 
 ---
 
-In decompilation using IDA, we are interested in the following moments:
+After decompilation using IDA, we are interested in the following moments:
 
 ```c++
 v3 = sub_1349(v11);
@@ -108,7 +108,7 @@ bool __fastcall sub_1349(_QWORD *a1)
 }
 ```
 
-`dword_4020` here in decimal format:
+Here is `dword_4020` in decimal format:
 
 ```plain
 .data:0000000000004020 ; _DWORD dword_4020[24]

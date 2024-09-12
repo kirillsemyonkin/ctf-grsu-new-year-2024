@@ -46,7 +46,7 @@ ciphertext = 3364561773092566754070684325802994504527565379390500484183137236759
 
 ## Решение / Solution
 
-Подсказка в условии задании (да и в коде тоже видно), что факторы `n` находятся рядом. Поэтому эта
+Подсказка в условии задании (да и в коде тоже видно), что множители `n` находятся рядом. Поэтому эта
 задача подпадает под [Fermat Attack](https://bitsdeep.com/posts/attacking-rsa-for-fun-and-ctf-points-part-2/).
 
 Так как этот вид атаки включен в [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool), достаточно
@@ -68,7 +68,7 @@ grodno{Ofru*YgePg8h}
 
 ---
 
-The hint is in the description of the task (in the code it is visible too though): `n` has two prime
+The hint is in the description of the task (in the code it is obvious too though): `n` has two prime
 factors that are close to each other. Thus, this task falls under [Fermat Attack](https://bitsdeep.com/posts/attacking-rsa-for-fun-and-ctf-points-part-2/).
 
 Since this attack is included in [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool), you can

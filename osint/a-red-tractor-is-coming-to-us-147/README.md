@@ -34,7 +34,7 @@
 
 ## Решение / Solution
 
-1. Поиск на любом сервисе позволяет узнать, что это - Беларус МТЗ-311.
+1. Поиск на любом онлайн сервисе позволяет узнать, что это - Беларус МТЗ-311.
 
 2. Поиск правил позволяет узнать, что права - категории B, минимальный возраст получения прав - 17,
    а обучаться можно за 2-3 года до этого.
@@ -47,7 +47,7 @@ grodno{Belarus_311;B;14;17}
 
 ---
 
-1. Search on any service allows you to know what it is - Belarus MTZ-311.
+1. Search on any online service allows you to know what it is - Belarus MTZ-311.
 
 2. Searching for rules allows you to know what rights - the category is B, the minimum age of
    obtaining rights is 17, and you can study for 2-3 years before that happens.

@@ -16,13 +16,20 @@
 
 ## Решение / Solution
 
-1. Поиск в Google Images по запросу "grodno investor man site:wikipedia.org" может показать Меера Лански.
+1. Поиск в Google Images по запросу "grodno investor man site:wikipedia.org" может показать Меера
+   Лански.
 
 2. Он родился 4 июля 1902 года.
 
 3. Его прозвище - "Бухгалтер Мафии" ("Mob's Accountant").
 
 4. После некоторых попыток вы можете подобрать его профессию "гангстер" ("gangster").
+
+Флаг:
+
+```plain
+grodno{Meyer_Lansky;04.07.1902;gangster;Mob's_Accountant}
+```
 
 ---
 
@@ -32,7 +39,7 @@
 
 3. His nickname was "Mob's Accountant".
 
-4. After some attempts you can get that his profession is "gangster".
+4. After some attempts you can pick his profession - "gangster".
 
 Flag:
 

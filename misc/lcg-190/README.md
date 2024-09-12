@@ -43,8 +43,9 @@
 
 ## Решение / Solution
 
-Задача уже решена автором библиотеки LCG для Rust. Единственное что, так это то, что она принимала
-`isize` вместо `BigInt`, и из-за этого могла вылетать, поэтому требовала небольших правок.
+Задача уже решена автором библиотеки [LCG для Rust](https://crates.io/crates/lcg-tools).
+Единственное что, так это то, что она принимала `isize` вместо `BigInt`, и из-за этого могла
+вылетать, поэтому требовала небольших правок.
 
 ```rust
 fn main() {
@@ -73,9 +74,9 @@ grodno{25847423595831;4911010480461301;4911010483207700;1550845196037885}
 
 ---
 
-The task has already been solved by the author of the LCG library in Rust. The only thing - it
-accepted `isize` as opposed to `BigInt`, and was prone to crashing because of that, so a slight
-adjustment was needed.
+The task has already been solved by the author of the
+[LCG library in Rust](https://crates.io/crates/lcg-tools). The only thing - it accepted `isize` as
+opposed to `BigInt`, and was prone to crashing because of that, so a slight adjustment was needed.
 
 ```rust
 fn main() {

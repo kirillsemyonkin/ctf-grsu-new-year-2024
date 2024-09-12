@@ -22,7 +22,7 @@ grodno{If_you_need_it_in_Chinese_we_can_do_it_in_Chinese_}
 
 ---
 
-It is solved via Magic / Intensive Mode in [CyberChef](https://gchq.github.io/CyberChef/).
+It is solvable via Magic / Intensive Mode in [CyberChef](https://gchq.github.io/CyberChef/).
 
 Flag:
 

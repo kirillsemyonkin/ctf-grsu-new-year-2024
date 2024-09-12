@@ -13,8 +13,8 @@
 ## Решение / Solution
 
 Неинтересное и неэффективное решение. Можно просто сгенерировать файл из всех 9-значных чисел (это
-10^9 * 10 (это 9 цифр и перенос) = 10 GB) и сидеть весь день и ждать пока оно не выведет пароль
-`124161344`.
+10^9 * 10 (это 9 цифр и перенос) = 10 GB) и сидеть весь день и ждать любимый инструмент (в названии
+задания - John The Ripper) пока он не выведет пароль `124161344`.
 
 Флаг:
 
@@ -26,7 +26,7 @@ grodno{0n_linux_it_would_be_easier_t0_do_this}
 
 Uninteresting and inefficient solution. Ii is possible to just generate a file with all 9-digit
 numbers (that is 10^9 * 10 (9 digits and new line) = 10 GB) and stay up all day waiting for the
-password `124161344` to output.
+password `124161344` to be output by your favorite tool (the task name implies John The Ripper).
 
 Flag:
 

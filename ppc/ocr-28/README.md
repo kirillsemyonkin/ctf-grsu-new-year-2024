@@ -41,9 +41,9 @@ b'iVBORw0KGgoAAAANSUhEUgAAAZAAAAAyCAIAAAD9fhrKAAAIhklEQVR4nO3bXUhT/x8H8M+ZM3WU+D
 ---
 
 > [!NOTE]
-> During the solution task, the message was presented as `abc_&_def_&_ghi`, but the format changed
-> to `abc&def&ghi` while typing out this write-up. The small distance between the characters may
-> slightly affect Tesseract's reading ability, but the task is still solvable.
+> During the solution of the task, the message was presented as `abc_&_def_&_ghi`, but the format
+> changed to `abc&def&ghi` while typing out this write-up. The small distance between the characters
+> may slightly affect Tesseract's reading ability, but the task is still solvable.
 
 Nasty task. Not that I am angry at the authors (I actually believe they did well that they made it
 as it is presented), but in the way that OCR is not the most controllable creature.

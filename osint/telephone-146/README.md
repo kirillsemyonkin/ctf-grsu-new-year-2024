@@ -39,7 +39,7 @@ grodno{+375(1513)74661}
 
 2. Navigate to the [accommodation](https://npbp.by/eng/residence/).
 
-3. After brute-forcing the flag with all hotels, the needed one was the
+3. After brute-forcing the flag with all hotels, the required one was the
    [Zharkovschina](https://npbp.by/eng/residence/gk-zharkovschina/).
 
 Flag:

@@ -124,8 +124,8 @@ If we use AND encryption, then inevitable loss of data occurs. For example, if t
 then the encoded message will always be zero.
 
 But not all hope is lost. Assume there is some binary message and a key. The result of an
-AND-operation will be AND of each bit of these messages. It is easy to notice, that output will
-contain `1` exactly at those positions, where there have been `1` in both message and key. From this
+AND-operation will be AND of each bit of these messages. It is easy to notice that output will
+contain `1` exactly at such positions where there have been `1` in both message and key. From this
 follows the main idea of the solution: `1` will never appear in the positions where the key had no
 `1`. If the key is the same for many messages (which socket allows us to get), then if we combine
 the parts of ones that were obtained for different messages, after some time all ones of the key
@@ -133,7 +133,7 @@ will be obtained. If we are lucky, and we get a message that contains all bits e
 the key will be revealed instantly.
 
 About the instant-ness of key revealing: how many message is required to get the answer? In the
-source code it is visible that the message is generated in chunks of 8 bits. The table of
+source code you can see that the message is generated in chunks of 8 bits. The table of
 probabilities of each bit of the number `m` looks like:
 
 ```plain
@@ -145,7 +145,7 @@ probabilities of each bit of the number `m` looks like:
 2^5. 0.17451524
 2^6. 0.17451524
 2^7. 0, since m < 127. This probably means that the task assumes that this bit will not be used,
-                       which is logical, since the key (flag) is an ASCII text.
+                       which makes sense, since the key (flag) is an ASCII text.
 ```
 
 As it turns out, you need a minimum of 8 messages to get the answer. As practice has shown, this is

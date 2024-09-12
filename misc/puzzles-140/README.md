@@ -32,6 +32,8 @@ From the given `.gif` file you need to [extract all frames](https://ezgif.com/sp
 Next you need to collect all frames into [QR-codes](https://qrcoderaptor.com/), they contain the
 flag.
 
+![Red](red.png) ![Blue](blue.png) ![Purple](purple.png)
+
 Flag:
 
 ```plain

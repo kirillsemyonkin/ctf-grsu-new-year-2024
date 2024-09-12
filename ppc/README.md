@@ -1,12 +1,12 @@
 # PPC - Дополнительные Замечания / Additional Notes
 
-Программы приведены на Rust и на Python. В них используется функция `read_line` для одновременного
-ввода и вывода из сокета. Ниже также приведены общие импорты.
+Программы приведены на Rust и на Python. В них используется функция `read_line` чтения из сокета и
+одновременного вывода в консоль. Ниже также приведены общие импорты.
 
 ---
 
-Programs are listed in Rust and Python. A `read_line` function is used in both for simultaneous
-input and output from the socket. Common imports are also listed below.
+Programs are listed in Rust and Python. A `read_line` function is used to read from the socket with
+simultaneous output to the console. Common imports are also listed below.
 
 ---
 

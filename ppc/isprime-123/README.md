@@ -41,10 +41,10 @@ NO
 > и решить данную задачу без программирования.
 
 Легко решается на языке Rust даже без решета Эратосфена, например через
-[`primes::is_prime`](https://docs.rs/primes/latest/primes/fn.is_prime.html).
+[`use primes::is_prime`](https://docs.rs/primes/latest/primes/fn.is_prime.html).
 
 На Python тоже решается с библиотеками, например с помощью
-[`sympy.isprime`](https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.isprime).
+[`from sympy import isprime`](https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.primetest.isprime).
 
 ---
 

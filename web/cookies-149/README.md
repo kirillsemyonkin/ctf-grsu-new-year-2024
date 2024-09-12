@@ -12,7 +12,7 @@
 
 ## Решение / Solution
 
-Явно что требуется забить запрос большим количеством cookie.
+Явно, что требуется забить запрос большим количеством cookie.
 
 > [!WARNING]
 > Забивание одной cookie не принимается сервером за ответ.
@@ -60,7 +60,7 @@ It is clear that you need to fill a request with a large amount of cookies.
 > Filling request with one huge cookie is not accepted by the server.
 >
 > The limit on the size of the `Cookie` header is 4096 characters (after that the server responds
-> with code `400`).
+> with the code `400`).
 >
 > Cookies with the same name are not distinguished by the server.
 

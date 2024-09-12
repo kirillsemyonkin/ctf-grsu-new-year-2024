@@ -44,7 +44,7 @@ PolynomialHash(flag, 100)
 Начнем с правого конца. Если мы правильно выбрали 20 степень, то в конце под 0 степенью будет
 положительное число. Возьмем последние две цифры (так как остаток от деления на 100) - `25`. Так как
 такого символа не может быть (наши пределы от 32 до 127), добавим 100 (не меняет остаток от
-деления на 100). Это `}`, значит мы движемся в правильно направлении.
+деления на 100). Это `}`, значит мы движемся в правильном направлении.
 
 Дальше пойдет некоторое ухищрение. Трудно разбираться, добавлять ли `1`, вычитать ли `-1`, может нет
 переноса, или же там может перенос еще большого значения. Сделаем массив переносов (`[0, 0, ...]`),
@@ -125,9 +125,9 @@ number (like `-10^20`), and after that should come a negative power (`-10^19`). 
 assume the power to be 20. If that is not the case, we can fix it later.
 
 Let's start from the right end. If we correctly picked the power of 20, then the last number under
-the 0th power will be a positive number. Let's take our 2 numbers (because of the modulo 100) -
-`25`. Since this symbol cannot be ASCII (thats 32 through 127), let's add 100 (which does not change
-the remainder under modulo 100). This is `}`, so we are moving in the right direction.
+the 0th power will be a positive number. Let's take our 2 digits (because of the modulo 100) -
+`25`. Since this symbol cannot be ASCII (that's 32 through 127), let's add 100 (which does no
+change to the remainder under modulo 100). This is `}`, so we are moving in the right direction.
 
 Next there will be some tricks. It is hard to figure out whether to add `1`, `-1`, maybe there is no
 carry-over, maybe the carry is larger in magnitude. Let's make an array of carries (`[0, 0, ...]`)
@@ -137,9 +137,10 @@ the given number.
 We will do a loop from the last number to the first one. Let's divide the given number into chunks
 of 2 digits starting from the end (`1 01 87 10 01 08 90 22 55 48 52 47 05 76 84 08 18 19 86 25`).
 Then we add the carry. If the number is in the negative power, it signals a subtraction - for
-example, `86` does not show the number that was subtracted, but the result, and to go back to the
-wanted number we should subtract that number from a `100`, which turns into `100 - 86 = 14`. After
-that, if the number is not in the range of 32 to 127, we need to add `100` to turn it into ASCII.
+example, `86` does not show the number that was subtracted, but rather it is the result, and to go
+back to the desired number we should subtract that number from a `100`, which turns into
+`100 - 86 = 14`. After that, if the number is not in the range of 32 to 127, we need to add `100` to
+turn it into ASCII.
 
 ```python
 numbers = list(map(lambda x: int(x), "1 01 87 10 01 08 90 22 55 48 52 47 05 76 84 08 18 19 86 25".split(' ')))
@@ -176,7 +177,7 @@ The work will look like this - the current output is:
 eqnclnz-00/_LtlRwr}
 ```
 
-This does not look understandable, let's fix it by making it large enough to not have a negative
+This does not look intelligible yet, let's fix it by making it large enough to not have a negative
 number. Changing `carry[1]` to `1`:
 
 ```plain

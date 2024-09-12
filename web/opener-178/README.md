@@ -136,7 +136,7 @@ nobody:x:65534:65534:nobody:/:/sbin/nologin
 node:x:1000:1000:Linux User,,,:/home/node:/bin/sh
 ```
 
-Next a manual brute-force (not the best solution by the task author) gave a following path:
+Next a manual brute-force (not the best decision by the task author) gave a following path:
 
 ```url
 /files?file=/....//flag.txt

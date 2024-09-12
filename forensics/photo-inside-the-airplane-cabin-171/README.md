@@ -25,7 +25,7 @@
 1. Журнал `baltic`. Ищем авиакомпанию, находим `airBaltic`.
 
 2. Ищем самолеты, которые имеют такие же сидения как на фото. Результирующий самолет -
-`Airbus A220-300` (aka `Bombardier CS300`).
+`Airbus A220-300` (т.и.к. `Bombardier CS300`).
 
 3. Находим [информацию о самолете от компании airBaltic](https://www.airbaltic.com/ru/vozdushniy-flot).
    Там же есть план сидений самолета:
@@ -46,8 +46,8 @@ grodno{airBaltic;Airbus_A220-300;19;F}
 
 1. The magazine says `baltic`. Searching for the airline, find `airBaltic`.
 
-2. Searching for the planes that have the same-looking seats as in the photo. The resulting plane -
-`Airbus A220-300` (aka `Bombardier CS300`).
+2. Searching for the planes that have the similar enough seats as in the photo. The resulting
+plane - `Airbus A220-300` (aka `Bombardier CS300`).
 
 3. [Information about the plane from the company airBaltic](https://www.airbaltic.com/ru/vozdushniy-flot).
    Also there is a plan of the seats:

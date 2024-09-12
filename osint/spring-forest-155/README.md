@@ -52,7 +52,9 @@ grodno{53.43;25.92}
 3. The query "первоцветы озера беларуси" ("primula belarus lakes") in Google Images has shown it to
    be "Svityaz".
 
-4. The coordinates in Wikipedia are 53.4333°, 25.9167°.
+   ![Свитязь](svityaz.png)
+
+4. The coordinates in Wikipedia are `53.4333°, 25.9167°`.
 
 > [!WARNING]
 > The coordinates should be rounded.

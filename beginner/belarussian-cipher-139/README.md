@@ -26,7 +26,7 @@ grodno{D0n't_bel1eve_your_eyes!_Th3y_0nly_see_obst4cles}
 
 ---
 
-Although we are tasked to create a Morse code, the solution requires replacements of `1` and `0`.
+Although we are tasked to create a Morse code, the solution requires replacing them by `1` and `0`.
 
 Flag:
 

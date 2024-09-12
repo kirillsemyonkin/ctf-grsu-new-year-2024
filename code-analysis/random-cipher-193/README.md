@@ -59,9 +59,9 @@ grodno{xa-xa-xa-terrorist}
 ---
 
 `key` is always rising, and after some symbol `key` will become larger than `127`, after which `ord`
-will not be limited anymore. Then the formula `ord(c) + (ord(c) % key)` becomes `ord(c) + ord(c)`,
-and to get `c` you need to divide each number by 2 and convert it to a symbol using
-`chr(int(x) // 2)` (Spoiler: `key` initially is bigger than any `ord(c)`). Output:
+will not be bound anymore. Then the formula `ord(c) + (ord(c) % key)` becomes `ord(c) + ord(c)`, and
+to get `c` you need to divide each number by 2 and convert it to a symbol using `chr(int(x) // 2)`
+(Spoiler: `key` initially is bigger than any `ord(c)`). Output:
 
 ```plain
 def encrypt(text): # flag is: grodno{xa-xa-xa-terrorist}

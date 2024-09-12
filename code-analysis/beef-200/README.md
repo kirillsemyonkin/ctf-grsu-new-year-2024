@@ -169,7 +169,7 @@ for (int i = 0; i <= 10; i++) {
 Let's perform this operation on the values above.
 
 > [!WARNING]
-> IDA / C++ / who-else-there-is use Little Endian.
+> IDA / C++ / whoever-else-there-is use Little Endian.
 
 ```plain
   61333066657163623a78

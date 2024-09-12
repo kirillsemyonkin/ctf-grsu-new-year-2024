@@ -9,8 +9,8 @@
 
 ## Решение / Solution
 
-Данный `Panda.zip` файл запаролен. Проведем стандартную процедуру взлома паролей через John The
-Ripper:
+Данный [`Panda.zip`](Panda.zip) файл запаролен. Проведем стандартную процедуру взлома паролей через
+John The Ripper:
 
 ```bash
 $ zip2john Panda.zip > Panda.john
@@ -55,8 +55,8 @@ grodno{kung_fu_p4nd4}
 
 ---
 
-Given `Panda.zip` file is password-protected. Let's do the standard password picking procedure with
-John The Ripper:
+The given [`Panda.zip`](Panda.zip) file is password-protected. Let's do the standard password
+picking procedure with John The Ripper:
 
 ```plain
 $ zip2john Panda.zip > Panda.john
